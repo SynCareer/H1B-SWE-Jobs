@@ -6,9 +6,9 @@
 
 [![Updated](https://img.shields.io/badge/updated-daily-2563EB?style=flat-square)](./)
 ![Jobs](https://img.shields.io/badge/jobs-1200%2B-blue?style=flat-square)
-![Locations](https://img.shields.io/badge/locations-US%20%26%20Canada-2ea44f?style=flat-square)
-![Focus](https://img.shields.io/badge/focus-Tech%20Jobs-purple?style=flat-square)
-![H1B](https://img.shields.io/badge/H--1B-Sponsor%20History-orange?style=flat-square)
+![Locations](https://img.shields.io/badge/locations-US%20-2ea44f?style=flat-square)
+![Focus](https://img.shields.io/badge/focus-SWE%20Jobs-purple?style=flat-square)
+![H1B](https://img.shields.io/badge/H--1B-Sponsorship-orange?style=flat-square)
 
 [Job Lists](#-job-lists) · [Recent Updates](#-recent-openings) · [About](#-about)
 
@@ -18,7 +18,7 @@
 
 ##  Overview
 
-Looking for tech jobs in the US or Canada?
+Looking for tech jobs in the US?
 
 This repository collects **Software Engineering, Data, AI, and Quant** opportunities, with additional information about companies' H-1B sponsorship history.
 
