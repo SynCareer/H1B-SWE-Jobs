@@ -57,9 +57,9 @@ Latest opportunities added to the list.
 
 ##  H-1B Sponsorship Information
 
-Finding a job is one thing. Finding an employer with a history of H-1B sponsorship is another.
+The H-1B information in this repository is compiled from **historical H-1B filing records, job descriptions, and publicly available company information**. It is intended as a reference to help international job seekers identify potential H-1B sponsoring employers — not as a guarantee for any specific role.
 
-This repository highlights companies with historical H-1B filing records to help international job seekers narrow down their search.
+Sponsorship availability can change at any time due to hiring priorities, team budgets, role level, or location. **Always verify sponsorship with the recruiter or hiring manager during the interview process**, and refer to the employer's official job posting for the most up-to-date requirements.
 
 **A few things to keep in mind:**
 
