@@ -2,7 +2,7 @@
 
 # 2027 Tech Internships & New Grad Jobs
 
-**A curated list of tech jobs in the US & Canada, with a focus on H-1B sponsoring employers.**
+**A curated list of tech jobs in the US, with a focus on H-1B sponsoring employers.**
 
 [![Updated](https://img.shields.io/badge/updated-daily-2563EB?style=flat-square)](./)
 ![Jobs](https://img.shields.io/badge/jobs-1200%2B-blue?style=flat-square)
