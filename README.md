@@ -1,6 +1,6 @@
  <div align="center">
 
-# 2027 Tech Internships & New Grad Jobs
+# 2027 Software Engineering Internships & New Grad Jobs
 
 **A curated list of tech jobs in the US, with a focus on H-1B sponsoring employers.**
 
