@@ -57,15 +57,15 @@ Latest opportunities added to the list.
 
 ##  H-1B Sponsorship Information
 
-The H-1B information in this repository is compiled from **historical H-1B filing records, job descriptions, and publicly available company information**. It is intended as a reference to help international job seekers identify potential H-1B sponsoring employers — not as a guarantee for any specific role.
+The H-1B information in this repository is compiled from **historical H-1B filing records, job descriptions, and publicly available company information**. This information is intended as a reference to help international job seekers identify **employers with a history of H-1B sponsorship** — not as a guarantee for any specific role.
 
-Sponsorship availability can change at any time due to hiring priorities, team budgets, role level, or location. **Always verify sponsorship with the recruiter or hiring manager during the interview process**, and refer to the employer's official job posting for the most up-to-date requirements.
+Sponsorship availability can change at any time due to hiring priorities, team budgets, role level, or location. Always refer to the employer's official job posting for the most up-to-date requirements.
 
 **A few things to keep in mind:**
 
 - Sponsorship history does not guarantee sponsorship for a specific position.
 - Hiring and visa policies vary by team, role, and location.
-- Always confirm sponsorship availability with the employer before applying.
+- Confirm sponsorship availability with the recruiter or hiring manager — ideally before applying, and reconfirm during interviews.
 - H-1B information applies to US-based employment, not Canadian positions.
 
 ##  Looking for More Filters?
