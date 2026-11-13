@@ -9,7 +9,7 @@
 ![Focus](https://img.shields.io/badge/focus-SWE%20Jobs-purple?style=flat-square)
 ![H1B](https://img.shields.io/badge/H--1B-Sponsorship-orange?style=flat-square)
 
-[Job Lists](#-job-lists) · [Recent Updates](#-recent-openings) · [About](#-about)
+[Job Lists](#recent-openings) · [Updates](#updates) · [About](#about)
 
 </div>
 
